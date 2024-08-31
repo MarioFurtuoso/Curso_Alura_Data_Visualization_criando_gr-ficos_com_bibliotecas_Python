@@ -15,7 +15,7 @@ Nessa aula, aprendi a:
 - Adicionar um título ao gráfico;
 - Adicionar rótulos aos eixos X e Y.
 
-Clique [aqui](./Modulos/01_Conhecendo_os_Dados.ipynb) para acessar o Módulo 1.
+Clique [aqui](./Modulos/01_Conhecendo_a_biblioteca_Matplotlib.ipynb) para acessar o Módulo 1.
 
 ## 2. Criando figuras com Matplotlib
 Nessa aula, aprendi a:
@@ -29,7 +29,7 @@ Nessa aula, aprendi a:
 - Aplicar a mesma escala no eixo Y em uma figura contendo subplots;
 - Criar um título geral em uma figura contendo subplots.
 
-Clique [aqui](./Modulos/01_Conhecendo_os_Dados.ipynb) para acessar o Módulo 2.
+Clique [aqui](./Modulos/02_Criando_figuras_com_Matplotlib.ipynb) para acessar o Módulo 2.
 
 ## 3. Customizando com Matplotlib
 Nessa aula, aprendi a:
@@ -46,7 +46,7 @@ Nessa aula, aprendi a:
 - Retirar o quadro envolta do gráfico e deixá-lo mais limpo;
 - Salvar as figuras.
 
-Clique [aqui](./Modulos/01_Conhecendo_os_Dados.ipynb) para acessar o Módulo 3.
+Clique [aqui](./Modulos/03_Customizando_com_Matplotlib.ipynb) para acessar o Módulo 3.
 
 
 ## 4. Conhecendo a biblioteca Seaborn
@@ -60,7 +60,7 @@ Nessa aula, aprendi a:
 - Explorar diferentes temas;
 - Remover as bordas de um gráfico com a função sns.despine().
 
-Clique [aqui](./Modulos/01_Conhecendo_os_Dados.ipynb) para acessar o Módulo 4.
+Clique [aqui](./Modulos/04_Conhecendo_a_biblioteca_Seaborn.ipynb) para acessar o Módulo 4.
 
 ## 5. Gráficos interativos com Plotly
 Nessa aula, aprendi a:
@@ -75,4 +75,4 @@ Nessa aula, aprendi a:
 - Adicionar marcadores;
 - Salvar gráficos interativos no formato HTML.
 
-Clique [aqui](./Modulos/01_Conhecendo_os_Dados.ipynb) para acessar o Módulo 5.
+Clique [aqui](./Modulos/05_Gráficos_interativos_com_Plotly.ipynb) para acessar o Módulo 5.
